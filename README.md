@@ -2,7 +2,7 @@
 A portfolio for showcasing my progress and achievements in cybersecurity
 # About Me
 **Name:** Tracy L. Robinson,Jr.
-**Hometown:** [Your City and State/Country]
+**Hometown:** Decatur,Georgia
 **Prior IT Experience:**
 (Describe your background in IT, if any. If you are new to IT, write about what interests
 you in this field.)
