@@ -1,7 +1,7 @@
 # cybersecurity-portfolio-
 A portfolio for showcasing my progress and achievements in cybersecurity
 # About Me
-**Name:** [Your Full Name]
+**Name:** Tracy L. Robinson,Jr.
 **Hometown:** [Your City and State/Country]
 **Prior IT Experience:**
 (Describe your background in IT, if any. If you are new to IT, write about what interests
