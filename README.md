@@ -1,5 +1,5 @@
 # Cybersecurity-Portfolio
-A portfolio for showcasing my progress and achievements in cybersecurity
+A portfolio for showcasing my progress and achievements in cybersecurity.
 # About Me
 **Name:** Tracy L. Robinson,Jr.
 **Hometown:** Decatur,Georgia
